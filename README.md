@@ -1,1 +1,1 @@
-160314
+![example workflow](https://github.com/rybijakKarpiowy/grain-bank-mvn/actions/workflows/ci.yml/badge.svg)
